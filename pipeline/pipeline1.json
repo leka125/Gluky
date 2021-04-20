@@ -7,7 +7,7 @@
 				"type": "SqlServerStoredProcedure",
 				"dependsOn": [
 					{
-						"activity": "ForEach1",
+						"activity": "ForEachCargarDataArchvos",
 						"dependencyConditions": [
 							"Succeeded"
 						]
@@ -140,7 +140,8 @@
 				}
 			},
 			{
-				"name": "ForEach1",
+				"name": "ForEachCargarDataArchvos",
+				"description": "ciclo que recorre los archivos en el repositorio a4storeaccount",
 				"type": "ForEach",
 				"dependsOn": [
 					{
