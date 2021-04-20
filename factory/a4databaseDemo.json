@@ -1,0 +1,9 @@
+{
+	"name": "a4databaseDemo",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85f008a8-0999-488c-9489-a9bff8c3dfb1",
+		"tenantId": "ca1e2cfb-3c5b-4b7a-8a21-17226d658e64"
+	}
+}
