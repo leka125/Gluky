@@ -1,0 +1,224 @@
+{
+	"name": "archivocsv",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Entrada_csv",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "1608581872-1608581872-Notification-Clicked-20201211-0-0.csv",
+				"container": "archivodemo"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "ts",
+				"type": "String"
+			},
+			{
+				"name": "eventName",
+				"type": "String"
+			},
+			{
+				"name": "profile.identity",
+				"type": "String"
+			},
+			{
+				"name": "profile.objectId",
+				"type": "String"
+			},
+			{
+				"name": "profile.all_identities",
+				"type": "String"
+			},
+			{
+				"name": "profile.platform",
+				"type": "String"
+			},
+			{
+				"name": "profile.phone",
+				"type": "String"
+			},
+			{
+				"name": "profile.name",
+				"type": "String"
+			},
+			{
+				"name": "profile.email",
+				"type": "String"
+			},
+			{
+				"name": "profile.push_token",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.make",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.model",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.appVersion",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.sdkVersion",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.osVersion",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.browser",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.dpi",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.dimensions.width",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.dimensions.height",
+				"type": "String"
+			},
+			{
+				"name": "deviceInfo.dimensions.unit",
+				"type": "String"
+			},
+			{
+				"name": "controlGroupName",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.CT Source",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_cts",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_push_amp",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_ck",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_from",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.UTM",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_bi_liquid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_c2a",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_pid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.Campaign id",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.Install",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.CT App Version",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.Campaign type",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_dl_liquid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_acct_id",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_cid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_dl",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_pivot",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_bi",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_bc",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_rnv",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_bc_liquid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.RAW_STRING",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_pn",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_cid_liquid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_id",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_nms_liquid",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_ttl",
+				"type": "String"
+			},
+			{
+				"name": "eventProps.wzrk_dt",
+				"type": "String"
+			}
+		]
+	}
+}

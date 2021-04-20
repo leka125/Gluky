@@ -15,8 +15,200 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"enableStaging": false
-				}
+					"source": {
+						"type": "DelimitedTextSource",
+						"storeSettings": {
+							"type": "AzureBlobStorageReadSettings",
+							"recursive": true,
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "DelimitedTextReadSettings"
+						}
+					},
+					"sink": {
+						"type": "AzureSqlSink"
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "profile.identity",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "profile.identity",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "profile.all_identities",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "profile.all_identities",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "profile.platform",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "profile.platform",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "profile.phone",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "profile.phone",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "profile.name",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "profile.name",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "profile.email",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "profile.email",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "deviceInfo.make",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "deviceInfo.make",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "deviceInfo.dpi",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "deviceInfo.dpi",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "deviceInfo.dimensions.width",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "deviceInfo.dimensions.width",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "deviceInfo.dimensions.height",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "deviceInfo.dimensions.height",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "eventProps.wzrk_pid",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "eventProps.wzrk_pid",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "eventProps.wzrk_cid",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "eventProps.wzrk_cid",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"source": {
+									"name": "eventProps.wzrk_dt",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "eventProps.wzrk_dt",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							}
+						],
+						"typeConversion": true,
+						"typeConversionSettings": {
+							"allowDataTruncation": true,
+							"treatBooleanAsNumber": false
+						}
+					}
+				},
+				"inputs": [
+					{
+						"referenceName": "archivocsv",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "bdFuenteRaw",
+						"type": "DatasetReference"
+					}
+				]
 			}
 		],
 		"annotations": []

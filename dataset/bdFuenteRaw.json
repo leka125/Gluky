@@ -1,0 +1,69 @@
+{
+	"name": "bdFuenteRaw",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "profile.identity",
+				"type": "varchar"
+			},
+			{
+				"name": "profile.all_identities",
+				"type": "varchar"
+			},
+			{
+				"name": "profile.platform",
+				"type": "varchar"
+			},
+			{
+				"name": "profile.phone",
+				"type": "varchar"
+			},
+			{
+				"name": "profile.name",
+				"type": "varchar"
+			},
+			{
+				"name": "profile.email",
+				"type": "varchar"
+			},
+			{
+				"name": "deviceInfo.make",
+				"type": "varchar"
+			},
+			{
+				"name": "deviceInfo.dpi",
+				"type": "varchar"
+			},
+			{
+				"name": "deviceInfo.dimensions.width",
+				"type": "varchar"
+			},
+			{
+				"name": "deviceInfo.dimensions.height",
+				"type": "varchar"
+			},
+			{
+				"name": "eventProps.wzrk_pid",
+				"type": "varchar"
+			},
+			{
+				"name": "eventProps.wzrk_cid",
+				"type": "varchar"
+			},
+			{
+				"name": "eventProps.wzrk_dt",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "FuenteRaw"
+		}
+	}
+}
