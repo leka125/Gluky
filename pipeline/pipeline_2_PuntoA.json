@@ -36,8 +36,9 @@
 						"mappings": [
 							{
 								"source": {
+									"name": "customer_id",
 									"type": "String",
-									"ordinal": 1
+									"physicalType": "String"
 								},
 								"sink": {
 									"name": "customer_id",
@@ -47,8 +48,9 @@
 							},
 							{
 								"source": {
+									"name": "customer_unique_id",
 									"type": "String",
-									"ordinal": 2
+									"physicalType": "String"
 								},
 								"sink": {
 									"name": "customer_unique_id",
@@ -58,8 +60,9 @@
 							},
 							{
 								"source": {
+									"name": "customer_zip_code_prefix",
 									"type": "String",
-									"ordinal": 3
+									"physicalType": "String"
 								},
 								"sink": {
 									"name": "customer_zip_code_prefix",
@@ -69,8 +72,9 @@
 							},
 							{
 								"source": {
+									"name": "customer_city",
 									"type": "String",
-									"ordinal": 4
+									"physicalType": "String"
 								},
 								"sink": {
 									"name": "customer_city",
@@ -80,8 +84,9 @@
 							},
 							{
 								"source": {
+									"name": "customer_state",
 									"type": "String",
-									"ordinal": 5
+									"physicalType": "String"
 								},
 								"sink": {
 									"name": "customer_state",
