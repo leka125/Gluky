@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BaseDeDatosVentas-Web.config Connection String" description="BaseDeDatosVentas Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:a4serverprueba.database.windows.net,1433;Initial Catalog=a3DatabasePrueba;Persist Security Info=False;User ID=a4admin;Password=Principal123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Leandro\\Personal\\Prueba\ tecnica\\Gluky\\GithubRepository\\Gluky\\Requerimiento\ 2\\SolucionVS\\GK\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BaseDeDatosVentas']/@connectionString" />
+  </parameter>
+</parameters>

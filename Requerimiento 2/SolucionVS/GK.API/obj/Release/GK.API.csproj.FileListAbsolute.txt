@@ -1,0 +1,164 @@
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\GK.API.dll.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\GK.API.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\GK.API.pdb
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\csc.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\csc.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\csc.rsp
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\csi.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\csi.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\csi.rsp
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.AppContext.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Console.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.IO.Compression.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.IO.Pipes.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.AccessControl.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.Claims.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.ValueTuple.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Xml.XPath.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\vbc.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\vbc.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\vbc.rsp
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\VBCSCompiler.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Antlr3.Runtime.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Newtonsoft.Json.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Net.Http.Formatting.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Helpers.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Http.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Http.WebHost.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Mvc.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Optimization.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Razor.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.WebPages.Deployment.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.WebPages.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.WebPages.Razor.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\WebGrease.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Newtonsoft.Json.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Net.Http.Formatting.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Helpers.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Http.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Http.WebHost.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Mvc.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Optimization.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.Razor.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.WebPages.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.WebPages.Deployment.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\System.Web.WebPages.Razor.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Antlr3.Runtime.pdb
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\obj\Release\GK.API.csprojAssemblyReference.cache
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\obj\Release\GK.API.csproj.CoreCompileInputs.cache
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\obj\Release\GK.API.csproj.CopyComplete
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\obj\Release\GK.API.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Ventas\GK\GK.API\obj\Release\GK.API.pdb
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\GK.API.dll.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\GK.API.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\GK.API.pdb
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\csc.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\csc.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\csc.rsp
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\csi.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\csi.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\csi.rsp
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.AppContext.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Console.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.IO.Compression.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.IO.Pipes.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.AccessControl.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.Claims.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.ValueTuple.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Xml.XPath.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\vbc.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\vbc.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\vbc.rsp
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\VBCSCompiler.exe
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Antlr3.Runtime.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Newtonsoft.Json.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Net.Http.Formatting.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Helpers.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Http.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Http.WebHost.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Mvc.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Optimization.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Razor.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.WebPages.Deployment.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.WebPages.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.WebPages.Razor.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\WebGrease.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Newtonsoft.Json.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Net.Http.Formatting.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Helpers.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Http.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Http.WebHost.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Mvc.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Optimization.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.Razor.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.WebPages.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.WebPages.Deployment.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\System.Web.WebPages.Razor.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Antlr3.Runtime.pdb
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\obj\Release\GK.API.csprojAssemblyReference.cache
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\obj\Release\GK.API.csproj.CoreCompileInputs.cache
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\obj\Release\GK.API.csproj.CopyComplete
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\obj\Release\GK.API.dll
+D:\Leandro\Personal\Prueba tecnica\Gluky\GithubRepository\Gluky\Requerimiento 2\SolucionVS\GK.API\obj\Release\GK.API.pdb

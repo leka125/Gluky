@@ -1,0 +1,62 @@
+﻿@model GK.API.Models.ReporteModel
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+@*<link rel="stylesheet" href="/resources/demos/style.css">*@
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "frmGeneracion", enctype = "multipart/form-data" }))
+{
+    <div>
+        <table>
+            <tr>
+                <td>Seleccione reporte</td>
+                <td>@Html.DropDownList("OpcionReporte_Id", new SelectList(Model.ListReportes, "Value", "Text"))</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Fecha inicial")</td>
+                <td>@Html.TextBox("FechaInicial")</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Fecha final")</td>
+                <td>@Html.TextBox("FechaFinal")</td>
+            </tr>
+        </table>
+        <div>
+            <input type="submit" id="btnGenerarInforme" name="search" value="Generar Informe" />
+        </div>
+    </div>
+}
+
+
+<script type='text/javascript'>
+
+    AdicionarCalendario('FechaInicial', 'mm/dd/yy');
+    AdicionarCalendario('FechaFinal', 'mm/dd/yy');
+    AdicionaPlaceHolder();
+
+    function AdicionaPlaceHolder() {
+        $('#FechaInicial').attr("placeholder", "mm/dd/yyyy");
+        $('#FechaFinal').attr("placeholder", "mm/dd/yyyy");
+    }
+    
+
+    function AdicionarCalendario(idControl, formatoFecha) {
+        if (formatoFecha === undefined) {
+            formatoFecha = 'mm/dd/yy'
+        }
+        var control = "#" + idControl;
+        $(control).datepicker({ dateFormat: 'mm/dd/yy' });
+        $(control).blur(function () {
+            var date1 = $(this).val();
+            if (date1 != "") {
+                var validate = IsValidDate(date1);
+                if (!validate) {
+                    alert("Formato de fecha inválido, el formato debe ser: mm/dd/yyyy");
+                    $(this).val("");
+                }
+            }
+        });
+    }
+</script>
