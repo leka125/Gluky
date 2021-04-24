@@ -13,7 +13,7 @@
 				"fileName": "olist_order_reviews_dataset.csv",
 				"container": "archivoreq2"
 			},
-			"columnDelimiter": ";",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
