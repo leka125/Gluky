@@ -263,7 +263,7 @@
 				"type": "Copy",
 				"dependsOn": [
 					{
-						"activity": "Copy olist_orders_dataset",
+						"activity": "Copy olist_sellers_dataset",
 						"dependencyConditions": [
 							"Succeeded"
 						]
@@ -402,7 +402,7 @@
 				]
 			},
 			{
-				"name": "Copy olist_orders_dataset",
+				"name": "Cargar olist_orders_dataset",
 				"type": "Copy",
 				"dependsOn": [
 					{
@@ -552,6 +552,280 @@
 				"outputs": [
 					{
 						"referenceName": "DBolist_orders_dataset",
+						"type": "DatasetReference"
+					}
+				]
+			},
+			{
+				"name": "Cargar olist_products_dataset",
+				"type": "Copy",
+				"dependsOn": [
+					{
+						"activity": "Cargar olist_orders_dataset",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "7.00:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "DelimitedTextSource",
+						"storeSettings": {
+							"type": "AzureBlobStorageReadSettings",
+							"recursive": true,
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "DelimitedTextReadSettings"
+						}
+					},
+					"sink": {
+						"type": "AzureSqlSink"
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "product_id",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_id",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "product_category_name",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_category_name",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "product_name_lenght",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_name_lenght",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "product_description_lenght",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_description_lenght",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "product_photos_qty",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_photos_qty",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "product_weight_g",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_weight_g",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "product_length_cm",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_length_cm",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "product_height_cm",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_height_cm",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "product_width_cm",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "product_width_cm",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							}
+						],
+						"typeConversion": true,
+						"typeConversionSettings": {
+							"allowDataTruncation": true,
+							"treatBooleanAsNumber": false
+						}
+					}
+				},
+				"inputs": [
+					{
+						"referenceName": "arch_olist_products_dataset",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "DBolist_products_dataset",
+						"type": "DatasetReference"
+					}
+				]
+			},
+			{
+				"name": "Copy olist_sellers_dataset",
+				"type": "Copy",
+				"dependsOn": [
+					{
+						"activity": "Cargar olist_products_dataset",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "7.00:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "DelimitedTextSource",
+						"storeSettings": {
+							"type": "AzureBlobStorageReadSettings",
+							"recursive": true,
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "DelimitedTextReadSettings"
+						}
+					},
+					"sink": {
+						"type": "AzureSqlSink"
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "seller_id",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "seller_id",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "seller_zip_code_prefix",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "seller_zip_code_prefix",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "seller_city",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "seller_city",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							},
+							{
+								"source": {
+									"name": "seller_state",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "seller_state",
+									"type": "String",
+									"physicalType": "nvarchar"
+								}
+							}
+						],
+						"typeConversion": true,
+						"typeConversionSettings": {
+							"allowDataTruncation": true,
+							"treatBooleanAsNumber": false
+						}
+					}
+				},
+				"inputs": [
+					{
+						"referenceName": "arch_olist_sellers_dataset",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "DBolist_sellers_dataset",
 						"type": "DatasetReference"
 					}
 				]
