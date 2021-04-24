@@ -1,6 +1,7 @@
 {
 	"name": "pipeline_5_DatosAnalitica",
 	"properties": {
+		"description": "5. PIPELINE DE DATOS & ANALITICA",
 		"activities": [
 			{
 				"name": "InsertarPersona",
@@ -132,6 +133,7 @@
 					],
 					"storeSettings": {
 						"type": "AzureBlobStorageReadSettings",
+						"recursive": true,
 						"enablePartitionDiscovery": false
 					},
 					"formatSettings": {
