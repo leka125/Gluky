@@ -1,0 +1,47 @@
+{
+	"name": "DBolist_order_reviews_dataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "review_id",
+				"type": "nvarchar"
+			},
+			{
+				"name": "order_id",
+				"type": "nvarchar"
+			},
+			{
+				"name": "review_score",
+				"type": "nvarchar"
+			},
+			{
+				"name": "review_comment_title",
+				"type": "nvarchar"
+			},
+			{
+				"name": "review_comment_message",
+				"type": "nvarchar"
+			},
+			{
+				"name": "review_creation_date",
+				"type": "datetime2",
+				"scale": 7
+			},
+			{
+				"name": "review_answer_timestamp",
+				"type": "datetime2",
+				"scale": 7
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "olist_order_reviews_dataset"
+		}
+	}
+}
