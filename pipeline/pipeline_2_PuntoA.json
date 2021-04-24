@@ -1,0 +1,7 @@
+{
+	"name": "pipeline_2_PuntoA",
+	"properties": {
+		"description": "2. Requerimientos mínimos\nA. Creación de pipelines de cargue, transformación y cargue de información",
+		"annotations": []
+	}
+}
